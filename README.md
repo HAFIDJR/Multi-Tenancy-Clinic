@@ -53,7 +53,6 @@ This repository contains the complete source code for a **Patient & Clinic Manag
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/filament-multi-tenancy-clinic.git
 
 # Navigate to project
 cd filament-multi-tenancy-clinic
