@@ -15,7 +15,6 @@
 This repository contains the complete source code for a **Patient & Clinic Management System** built with **Laravel** and **FilamentPHP v3**, implementing **multi-tenancy architecture**. The project demonstrates how multiple clinics (tenants) can securely manage their own patient data within a single application instance while maintaining complete data isolation.
 
 ---
-
 ## ✨ Key Features
 
 - 🔐 **Multi-Tenancy Architecture** — Complete tenant isolation using Filament's built-in multi-tenant support
